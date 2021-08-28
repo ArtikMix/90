@@ -1,0 +1,1510 @@
+fileFormatVersion: 2
+guid: 470c359e9bbc4434eb85a103a422a9f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4899852280421817763
+    second: Menyu_0
+  - first:
+      213: -6209772932552634162
+    second: Menyu_1
+  - first:
+      213: -3702014017131572975
+    second: Menyu_2
+  - first:
+      213: 7662154314448735131
+    second: Menyu_3
+  - first:
+      213: 6396405517262587170
+    second: Menyu_4
+  - first:
+      213: 8663036870680915346
+    second: Menyu_5
+  - first:
+      213: -379716172984872295
+    second: Menyu_6
+  - first:
+      213: -319127757293887326
+    second: Menyu_7
+  - first:
+      213: 1483259040955140117
+    second: Menyu_8
+  - first:
+      213: -7308773408068485290
+    second: Menyu_9
+  - first:
+      213: -7807802493194426734
+    second: Menyu_10
+  - first:
+      213: 1206413522040533120
+    second: Menyu_11
+  - first:
+      213: 4428990840692537539
+    second: Menyu_12
+  - first:
+      213: -8726840413577530580
+    second: Menyu_13
+  - first:
+      213: -7084593842643956555
+    second: Menyu_14
+  - first:
+      213: 1469840765794135643
+    second: Menyu_15
+  - first:
+      213: -281602132417725098
+    second: Menyu_16
+  - first:
+      213: -5747838351058487120
+    second: Menyu_17
+  - first:
+      213: 6727798717832462036
+    second: Menyu_18
+  - first:
+      213: -4929213456823899767
+    second: Menyu_19
+  - first:
+      213: -196877881060040022
+    second: Menyu_20
+  - first:
+      213: 8975804815534965815
+    second: Menyu_21
+  - first:
+      213: -4748336201167305195
+    second: Menyu_22
+  - first:
+      213: 249299093600439157
+    second: Menyu_23
+  - first:
+      213: 1772610034898291407
+    second: Menyu_24
+  - first:
+      213: 1807662576315923113
+    second: Menyu_25
+  - first:
+      213: 5203681270183108382
+    second: Menyu_26
+  - first:
+      213: 937517761500458844
+    second: Menyu_27
+  - first:
+      213: -7316988446822944707
+    second: Menyu_28
+  - first:
+      213: -2002148890398711060
+    second: Menyu_29
+  - first:
+      213: -8032694589566460674
+    second: Menyu_30
+  - first:
+      213: -851701862930533175
+    second: Menyu_31
+  - first:
+      213: -4714690524473844351
+    second: Menyu_32
+  - first:
+      213: -7584682420415337378
+    second: Menyu_33
+  - first:
+      213: 4385140568446596459
+    second: Menyu_34
+  - first:
+      213: -5344779556454510032
+    second: Menyu_35
+  - first:
+      213: -5502527792028784500
+    second: Menyu_36
+  - first:
+      213: 4740174390576175452
+    second: Menyu_37
+  - first:
+      213: -4052223072267870241
+    second: Menyu_38
+  - first:
+      213: -6326259169299425708
+    second: Menyu_39
+  - first:
+      213: -4144776670619519291
+    second: Menyu_40
+  - first:
+      213: 6332258175747233646
+    second: Menyu_41
+  - first:
+      213: 6179307304341826831
+    second: Menyu_42
+  - first:
+      213: -8518782380940666898
+    second: Menyu_43
+  - first:
+      213: -5754312447226050577
+    second: Menyu_44
+  - first:
+      213: -6893876128072073715
+    second: Menyu_45
+  - first:
+      213: 3548852038008464909
+    second: Menyu_46
+  - first:
+      213: -4155777431148125013
+    second: Menyu_47
+  - first:
+      213: 6587798710959786971
+    second: Menyu_48
+  - first:
+      213: -5620090445451810993
+    second: Menyu_49
+  - first:
+      213: 5891763073492869777
+    second: Menyu_50
+  - first:
+      213: 1851536837136063877
+    second: Menyu_51
+  - first:
+      213: 5134664142730924866
+    second: Menyu_52
+  - first:
+      213: -4240891835009650449
+    second: Menyu_53
+  - first:
+      213: -3811973431752346774
+    second: Menyu_54
+  - first:
+      213: -7746678722451778849
+    second: Menyu_55
+  - first:
+      213: -1191800678138999962
+    second: Menyu_56
+  - first:
+      213: -7019145021252508745
+    second: Menyu_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Menyu_0
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 906
+        width: 141
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad1e6240b5cff340800000000000000
+      internalID: 4899852280421817763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_1
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 892
+        width: 226
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec05d5b2b6472d9a0800000000000000
+      internalID: -6209772932552634162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_2
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 892
+        width: 85
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1111b539dddcf9cc0800000000000000
+      internalID: -3702014017131572975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 660
+        width: 547
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9b81fec0c0755a60800000000000000
+      internalID: 7662154314448735131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_4
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 748
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22509c7ade894c850800000000000000
+      internalID: 6396405517262587170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_5
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 748
+        width: 22
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d2c09922a493870800000000000000
+      internalID: 8663036870680915346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_6
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 775
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99214c9072afabaf0800000000000000
+      internalID: -379716172984872295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_7
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 769
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0e78cdefa329bf0800000000000000
+      internalID: -319127757293887326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_8
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 769
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51884063d38959410800000000000000
+      internalID: 1483259040955140117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_9
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 769
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fb1441f45029a90800000000000000
+      internalID: -7308773408068485290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_10
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 750
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296acbcfffc15a390800000000000000
+      internalID: -7807802493194426734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_11
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 750
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0803479d4ba0eb010800000000000000
+      internalID: 1206413522040533120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_12
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 775
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8ffec24bfe67d30800000000000000
+      internalID: 4428990840692537539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_13
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 769
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23303171e804e680800000000000000
+      internalID: -8726840413577530580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_14
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 769
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc89479f677ead90800000000000000
+      internalID: -7084593842643956555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_15
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 769
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e2c81936ce56410800000000000000
+      internalID: 1469840765794135643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_16
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 746
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65dbf314a5c871cf0800000000000000
+      internalID: -281602132417725098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_17
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 746
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8baca19739b30b0800000000000000
+      internalID: -5747838351058487120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_18
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 770
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de7bb8d941fd5d50800000000000000
+      internalID: 6727798717832462036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_19
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 764
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989afe32a7ae79bb0800000000000000
+      internalID: -4929213456823899767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_20
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 764
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2e84b3c9c844df0800000000000000
+      internalID: -196877881060040022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_21
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 764
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734c3338ce6709c70800000000000000
+      internalID: 8975804815534965815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_22
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 685
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5168b4ff1658a1eb0800000000000000
+      internalID: -4748336201167305195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_23
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 685
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b81ec6430b57300800000000000000
+      internalID: 249299093600439157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_24
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 685
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcac76f5f63999810800000000000000
+      internalID: 1772610034898291407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_25
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 685
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaf317298b161910800000000000000
+      internalID: 1807662576315923113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_26
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 685
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f1e918b80373840800000000000000
+      internalID: 5203681270183108382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_27
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 685
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5faad8df6bb20d00800000000000000
+      internalID: 937517761500458844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_28
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 680
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d303b7156c5d47a90800000000000000
+      internalID: -7316988446822944707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_29
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 680
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2a7582130f634e0800000000000000
+      internalID: -2002148890398711060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_30
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 680
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc50bf64d2268090800000000000000
+      internalID: -8032694589566460674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_31
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 680
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4bc7d0ba52e24f0800000000000000
+      internalID: -851701862930533175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_32
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 600
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d16de82fd029eb0800000000000000
+      internalID: -4714690524473844351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_33
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 599
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c6ef4268bcdb690800000000000000
+      internalID: -7584682420415337378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_34
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 600
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b65f9601d162bdc30800000000000000
+      internalID: 4385140568446596459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_35
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 599
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03252ceaf4783d5b0800000000000000
+      internalID: -5344779556454510032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_36
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 600
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88e865702813a3b0800000000000000
+      internalID: -5502527792028784500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_37
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 600
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5952b36e7b78c140800000000000000
+      internalID: 4740174390576175452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_38
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 600
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfd4dad59c93c7c0800000000000000
+      internalID: -4052223072267870241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_39
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 599
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45699d0bdcc9438a0800000000000000
+      internalID: -6326259169299425708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_40
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 599
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6b56af39bca76c0800000000000000
+      internalID: -4144776670619519291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_41
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 565
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e671a77d243b0e750800000000000000
+      internalID: 6332258175747233646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_42
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 565
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d6541014f41c550800000000000000
+      internalID: 6179307304341826831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_43
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 565
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7dc291f8437c980800000000000000
+      internalID: -8518782380940666898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_44
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 565
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe78b7021539420b0800000000000000
+      internalID: -5754312447226050577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_45
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 564
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ef7b4df280450a0800000000000000
+      internalID: -6893876128072073715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_46
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 565
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d066aed302e004130800000000000000
+      internalID: 3548852038008464909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_47
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 565
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4a4d2d176b356c0800000000000000
+      internalID: -4155777431148125013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_48
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 565
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdbc88226009c6b50800000000000000
+      internalID: 6587798710959786971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_49
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 334
+        width: 394
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f472741348d6102b0800000000000000
+      internalID: -5620090445451810993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_50
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 534
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1926e48ac4fb3c150800000000000000
+      internalID: 5891763073492869777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_51
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 534
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d9b0a81faf1b910800000000000000
+      internalID: 1851536837136063877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_52
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 534
+        width: 6
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243996c45ddf14740800000000000000
+      internalID: 5134664142730924866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_53
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 533
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0356368535525c0800000000000000
+      internalID: -4240891835009650449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_54
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 533
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a63bc2b4c56291bc0800000000000000
+      internalID: -3811973431752346774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_55
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 342
+        width: 103
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd25f2fdeb44e7490800000000000000
+      internalID: -7746678722451778849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_56
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 342
+        width: 143
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b8470099fd57fe0800000000000000
+      internalID: -1191800678138999962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Menyu_57
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 342
+        width: 108
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b3ea4dcaccf69e90800000000000000
+      internalID: -7019145021252508745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
